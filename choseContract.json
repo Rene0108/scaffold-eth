@@ -1,0 +1,44 @@
+[
+  {
+    "contractRegistry": "0xc3E589056Ece16BCB88c6f9318e9a7343b663522"
+  },
+  {
+    "key": "dex.factory",
+    "name": "UniswapV2Factory",
+    "frontendName": "Factory"
+  },
+  {
+    "key": "dex.router",
+    "name": "UniswapV2Router02",
+    "frontendName": "Router"
+  },
+  {
+    "key": "dex.revenuePool",
+    "name": "RevenuePool",
+    "frontendName": "RevenuePool"
+  },
+  {
+    "key": "governance.experts.DEX.parameters",
+    "name": "DEX_Parameters",
+    "frontendName": "Parameters"
+  },
+  {
+    "key": "defi.WQ.coin",
+    "name": "WQ",
+    "frontendName": "WQ"
+  },
+  {
+    "addr": "0xc3E589056Ece16BCB88c6f9318e9a7343b663522",
+    "name": "ContractRegistry",
+    "frontendName": "ContractRegistry"
+  },
+  {
+    "key": "defi.QUSD.coin",
+    "name": "IERC20",
+    "frontendName": "QUSD"
+  },
+  {
+    "name": "UniswapV2Pair",
+    "frontendName": "Pair"
+  }
+]
